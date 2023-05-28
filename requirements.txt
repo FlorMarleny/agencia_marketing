@@ -1,0 +1,12 @@
+django==3.2.19
+django-environ==0.10.0 //(nos_ayuda_a_poner_en_secreto_las_contraseñas)
+django-cors-headers==4.0.0 //para_la_comunicacion_de_frontend_y_backend
+django-rest-framework==0.1.0 //Para_Crear_appis_con_Django
+Pillow==9.5.0 //para_imagenes
+django-storages==1.13.2 //para-guardar_imagenes_en-aws
+django-ckeditor==6.5.1 //crear-contenido
+psycopg2==2.9.6 //para-la-base-de-batos-postsql
+
+
+
+
